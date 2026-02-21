@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # 🧠 NEOMON V2 - Advanced System Monitor
 # 👤 Owner: Nanakusa Chan
