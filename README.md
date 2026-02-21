@@ -22,8 +22,8 @@ Gerçek zamanlı sistem izleme aracı. CPU, RAM, Disk, Network ve Process takibi
 - Retro terminal görünümü
 
 
-## 📥 **NASIL KULLANILIR (ARCH, CACHYOS):**
-
+## 📥 **NASIL KULLANILIR:**
+1 - Setupu başlatınız.
 ### 1. **Dosyayı oluştur:**
 ```bash
 # Terminal'de
