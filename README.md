@@ -1,31 +1,10 @@
-# 🧠 NEOMON - Hacker Style System Monitor
-# a project by Nanakusa Chan
-# please open the installer for load the project to your computer...
+## 📥 **FOR GITHUB UPLOAD:**
 
-![NEOMON Demo](docs/demo.gif)
-
-Gerçek zamanlı sistem izleme aracı. CPU, RAM, Disk, Network ve Process takibi yapar. Hacker theme'li ve Matrix efekti ile süslü.
-
-## ✨ Özellikler
-
-### 🟢 Core Features
-- CPU, RAM, Disk, Swap kullanımı
-- Upload/Download hızı ve toplam trafik
-- Aktif bağlantı ve açık port sayısı
-- Sistem uptime ve boot zamanı
-- En çok CPU/RAM kullanan processler
-
-### 🟡 Hacker Style
-- Matrix yağmur efekti
-- Animasyonlu progress barlar
-- 4 farklı tema (Green Hacker, Cyberpunk, Minimal, Red Alert)
-- Retro terminal görünümü
-
-
-## 📥 **NASIL KULLANILIR:**
-1 - Setupu başlatınız.
-### 1. **Dosyayı aç:**
+### To download and run:
 ```bash
-# Terminal'de
-chmod +x setup.sh
-./setup.sh
+curl -O https://raw.githubusercontent.com/nanakusaChan/neomon/main/neomon-v2.sh
+chmod +x neomon-v2.sh
+./neomon-v2.sh
+```
+## .exe **Version:**
+```coming soon```
