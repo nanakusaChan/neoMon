@@ -24,7 +24,8 @@ Gerçek zamanlı sistem izleme aracı. CPU, RAM, Disk, Network ve Process takibi
 
 ## 📥 **NASIL KULLANILIR:**
 1 - Setupu başlatınız.
-### 1. **Dosyayı oluştur:**
+### 1. **Dosyayı aç:**
 ```bash
 # Terminal'de
-nano setup.sh
+chmod +x setup.sh
+./setup.sh
