@@ -1,5 +1,6 @@
 # 🧠 NEOMON - Hacker Style System Monitor
 # a project by Nanakusa Chan
+# please open the installer for load the project to your computer...
 
 ![NEOMON Demo](docs/demo.gif)
 
