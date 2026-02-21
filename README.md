@@ -21,19 +21,10 @@ Gerçek zamanlı sistem izleme aracı. CPU, RAM, Disk, Network ve Process takibi
 - 4 farklı tema (Green Hacker, Cyberpunk, Minimal, Red Alert)
 - Retro terminal görünümü
 
-## 🚀 Kurulum (Arch CachyOS)
 
+## 📥 **NASIL KULLANILIR (ARCH, CACHYOS):**
+
+### 1. **Dosyayı oluştur:**
 ```bash
-# Repoyu klonla
-git clone https://github.com/nanakusaChan/neomon.git
-cd neomon
-
-# Python bağımlılıklarını kur
-pip install -r backend/requirements.txt
-
-# Backend'i başlat
-cd backend
-python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
-
-# Tarayıcıda aç
-# http://localhost:8000
+# Terminal'de
+nano setup.sh
