@@ -1,4 +1,5 @@
 # 🧠 NEOMON - Hacker Style System Monitor
+# a project by Nanakusa Chan
 
 ![NEOMON Demo](docs/demo.gif)
 
@@ -23,7 +24,7 @@ Gerçek zamanlı sistem izleme aracı. CPU, RAM, Disk, Network ve Process takibi
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/kullaniciadi/neomon.git
+git clone https://github.com/nanakusaChan/neomon.git
 cd neomon
 
 # Python bağımlılıklarını kur
